@@ -15,7 +15,4 @@ public class Aufgabe3_1810653557 {
         short zahl4 = Short.parseShort(JOptionPane.showInputDialog("Bitte geben Sie ein"));
         float zahl5 = Float.parseFloat(JOptionPane.showInputDialog("Bitte geben Sie ein"));
 
-         double String.valueOf(alter) = alter;
-    }
-
-}
+        double String.valueOf(alter) = alter;

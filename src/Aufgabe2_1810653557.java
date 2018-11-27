@@ -12,8 +12,8 @@ public class Aufgabe2_1810653557 {
             while (var1 != var2) {
                 if(var1 > var2) {
                     ++var2;
-                }else (var1 < var2){
-                    ++var1;
+                }else if (var1 < var2){
+                        ++var1;
                 }
             }
         }
